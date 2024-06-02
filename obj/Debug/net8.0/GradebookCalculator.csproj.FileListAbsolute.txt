@@ -1,0 +1,15 @@
+C:\Users\kongo\OneDrive\Desktop\dcit318-assignment1-10990135\bin\Debug\net8.0\GradebookCalculator.exe
+C:\Users\kongo\OneDrive\Desktop\dcit318-assignment1-10990135\bin\Debug\net8.0\GradebookCalculator.deps.json
+C:\Users\kongo\OneDrive\Desktop\dcit318-assignment1-10990135\bin\Debug\net8.0\GradebookCalculator.runtimeconfig.json
+C:\Users\kongo\OneDrive\Desktop\dcit318-assignment1-10990135\bin\Debug\net8.0\GradebookCalculator.dll
+C:\Users\kongo\OneDrive\Desktop\dcit318-assignment1-10990135\bin\Debug\net8.0\GradebookCalculator.pdb
+C:\Users\kongo\OneDrive\Desktop\dcit318-assignment1-10990135\obj\Debug\net8.0\GradebookCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kongo\OneDrive\Desktop\dcit318-assignment1-10990135\obj\Debug\net8.0\GradebookCalculator.AssemblyInfoInputs.cache
+C:\Users\kongo\OneDrive\Desktop\dcit318-assignment1-10990135\obj\Debug\net8.0\GradebookCalculator.AssemblyInfo.cs
+C:\Users\kongo\OneDrive\Desktop\dcit318-assignment1-10990135\obj\Debug\net8.0\GradebookCalculator.csproj.CoreCompileInputs.cache
+C:\Users\kongo\OneDrive\Desktop\dcit318-assignment1-10990135\obj\Debug\net8.0\GradebookCalculator.sourcelink.json
+C:\Users\kongo\OneDrive\Desktop\dcit318-assignment1-10990135\obj\Debug\net8.0\GradebookCalculator.dll
+C:\Users\kongo\OneDrive\Desktop\dcit318-assignment1-10990135\obj\Debug\net8.0\refint\GradebookCalculator.dll
+C:\Users\kongo\OneDrive\Desktop\dcit318-assignment1-10990135\obj\Debug\net8.0\GradebookCalculator.pdb
+C:\Users\kongo\OneDrive\Desktop\dcit318-assignment1-10990135\obj\Debug\net8.0\GradebookCalculator.genruntimeconfig.cache
+C:\Users\kongo\OneDrive\Desktop\dcit318-assignment1-10990135\obj\Debug\net8.0\ref\GradebookCalculator.dll
